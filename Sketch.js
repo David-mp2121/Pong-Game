@@ -260,6 +260,7 @@ function draw() {
   colisaoraquete1()
   colisaoraquete2()
   placar()
-  movimentoraqueteXXX()
+  movimentoraqueteXXX() // comment this line to play multiplayer
+  movimentoraquete()    // comment this line to play single player
   preloadTime()
   }
