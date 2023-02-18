@@ -3,3 +3,4 @@ The game has to ways to play : Single Play and multiPlayer
 To chose the way to play you need to go to the function "draw()" where have every project's functions enables to work, e coment usin "//" before the function
 that you dont play with, for EXEMPLE:
 -To play like a single player : comment the line "movimentoraqueteXXX()" and uncomment the line  "movimentoraquete()" , and do the opposite to play multiplayer.
+ LINK TO PLAY :  https://editor.p5js.org/davi_mp2121/full/8RG_615Tp
